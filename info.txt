@@ -1,4 +1,4 @@
 Name: A
 Family : B
 Age : 25
-Gender : ui
+Gender : mgh
